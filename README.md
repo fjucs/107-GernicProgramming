@@ -7,4 +7,7 @@
 > the dijkstra is still f**ked up
 
 by [roy4801](https://github.com/roy4801) and [halloworld](https://github.com/william31212)
+
 [original repository](https://github.com/roy4801/107_Gernic_Programming)
+
+[共筆](https://hackmd.io/-kgyaT4ETaSCGQUm6-Fg2Q)
